@@ -1,0 +1,49 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1112,         39]
+NotebookOptionsPosition[       764,         25]
+NotebookOutlinePosition[      1161,         41]
+CellTagsIndexPosition[      1118,         38]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Projekt za Ra\[CHacek]unalni\[SHacek]ka orodja v matematiki", "Title",
+ CellChangeTimes->{{3.825495598395046*^9, 
+  3.825495610376691*^9}},ExpressionUUID->"84aabaa7-bb3f-4242-9911-\
+5ea75e1d64d0"]
+},
+WindowSize->{681, 676},
+WindowMargins->{{Automatic, -7}, {Automatic, 0}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (June 19, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"08712e69-ff1b-47f7-925a-7fb147db5b19"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 202, 3, 156, "Title",ExpressionUUID->"84aabaa7-bb3f-4242-9911-5ea75e1d64d0"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
