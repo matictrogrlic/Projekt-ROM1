@@ -1,2 +1,6 @@
-# Projekt-ROM1
-Ta repozitorij vsebuje projekt, ki ga bomo pripravili za predmet Računalniška orodja v matematiki 2020/21.
+# Stopnja samomorilnosti v ZDA po državah
+Analiziral bom stopnjo samomorilnosti po državah ZDA.
+Primerjal bom število samomorov po letih v državah.
+Primerjal bom število samomorov po državah.
+
+
